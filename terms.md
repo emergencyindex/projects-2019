@@ -8,17 +8,11 @@ toc: 2019 Terms
 ---
 
 {: #0-9 .index .sticky-nav }
-
 ## 0-9
 
 **#MeToo** [053]
 
-{: # .index .sticky-nav }
-
-##
-
 {: #A .index .sticky-nav }
-
 ## A
 
 **absence** [377] [457]
@@ -27,25 +21,25 @@ toc: 2019 Terms
 
 **accessibility** [099] [301] [459] [607]
 
-**Acconci, Vito** <span class="see-also">Vito</span> [271]
+**Acconci, Vito** [271]
 
 **activism** [033] [247] [313] [541]
 
-**Ader, Bas Jan** <span class="see-also">Bas</span> <span class="see-also">Jan</span> [121] [239]
+**Ader, Bas Jan** [121] [239]
 
-**African American** <span class="see-also">American</span> _see_ <span class="see-also">Black</span>
+**African American** _see_ <span class="see-also">Black</span> 
 
 **aging** [181] [219] [223] [321] [407] [443] [455] [507] [517] [549]
 
-**Agis, Maurice** <span class="see-also">Maurice</span> [121]
+**Agis, Maurice** [121]
 
-**Aguilar, Laura** <span class="see-also">Laura</span> [573]
+**Aguilar, Laura** [573]
 
 **AIDS** [211] [401] [591]
 
 **Albania** [325]
 
-**alter ego** <span class="see-also">ego</span> [039] [083] [571] _see_ <span class="see-also">also</span> <span class="see-also">persona</span>
+**alter ego**
 
 **America** [003] [005] [019] [029] [055] [075] [079] [097] [135] [165] [165] [177] [203] [217] [255] [265] [273] [305] [353] [501]
 
@@ -69,7 +63,7 @@ toc: 2019 Terms
 
 **artifact** [009] [013] [219] [317]
 
-**Ashley, Robert** <span class="see-also">Robert</span> [233]
+**Ashley, Robert** [233]
 
 **Asia** [231] [415] [449] [485]
 
@@ -79,17 +73,12 @@ toc: 2019 Terms
 
 **audio** [031] [045] [079] [225] [265] [297] [313] [311] [321] [345] [419] [451] [499]
 
-{: # .index .sticky-nav }
-
-##
-
 {: #B .index .sticky-nav }
-
 ## B
 
-**Bachelard, Gaston** <span class="see-also">Gaston</span> [043]
+**Bachelard, Gaston** [043]
 
-**Bakunin, Mikhail** <span class="see-also">Mikhail</span> [367]
+**Bakunin, Mikhail** [367]
 
 **balance** [015] [105] [113] [121] [147] [200] [253] [451] [533]
 
@@ -97,23 +86,23 @@ toc: 2019 Terms
 
 **barrier** [121]
 
-**Berlant, Lauren** <span class="see-also">Lauren</span> [317]
+**Berlant, Lauren** [317]
 
-**Beuys, Joseph** <span class="see-also">Joseph</span> [181] [437]
+**Beuys, Joseph** [181] [437]
 
 **birth** [013], [075] [271] [079] [093] [203] [211] [263] [321] [349] [407] [455] [465] [567]
 
-**Black** [049] [083] [153] [177] [306] [313] [353] _see_ <span class="see-also">also</span> <span class="see-also">race</span>
+**Black** [049] [083] [153] [177] [306] [313] [353] _see also_  <span class="see-also">race</span>
 
-**Blasey Ford, Christine** <span class="see-also">Ford</span> <span class="see-also">Christine</span> [365]
+**Blasey Ford, Christine** [365]
 
 **blood** [083] [135] [341] [369] [549] [600]
 
-**Boal, Augusto** <span class="see-also">Augusto</span> [169]
+**Boal, Augusto** [169]
 
 **body** [013] [019] [035] [045] [047] [049] [051] [055] [057], [075] [101] [109] [113] [133] [139] [147] [151] [163] [165] [169] [171] [175] [177] [189] [189] [199] [227] [231] [241] [261] [263] [271] [273] [277] [279] [289] [287] [293] [303] [313] [317] [319] [341] [345] [359] [377] [401] [403] [425] [427] [459] [483] [501] [499] [509] [509] [513] [533] [541] [543] [539] [549] [575] [579] [589] [591] [595]
 
-**female body** <span class="see-also">body</span> [017] [041] [061] [083] [129] [223] [309] [321] [337] [443] [547] [573]
+**female body** [017] [041] [061] [083] [129] [223] [309] [321] [337] [443] [547] [573]
 
 **books** [009] [027] [133] [113] [125] [183] [206] [215] [228] [235] [257] [311] [357] [439] [441] [509] [513] [615] [615]
 
@@ -123,27 +112,22 @@ toc: 2019 Terms
 
 **breath** [015] [023] [033] [055] [075] [079] [087] [109] [157] [159] [163] [189] [193] [227] [289] [303] [345] [357] [359] [369] [393] [393] [425] [423] [463] [517] [557] [567] [579] [611]
 
-**Burroughs, William** <span class="see-also">William</span> [311]
-
-{: # .index .sticky-nav }
-
-##
+**Burroughs, William** [311]
 
 {: #C .index .sticky-nav }
-
 ## C
 
-**Cabral, Amilcar** <span class="see-also">Amilcar</span> [313]
+**Cabral, Amilcar** [313]
 
-**Caesar, Julius** <span class="see-also">Julius</span> [091]
+**Caesar, Julius** [091]
 
-**Cage, John** <span class="see-also">John</span> [235]
+**Cage, John** [235]
 
-**Calder, Alexander** <span class="see-also">Alexander</span> [121]
+**Calder, Alexander** [121]
 
-**Cantor, Mircea** <span class="see-also">Mircea</span> [181]
+**Cantor, Mircea** [181]
 
-**capitalism** [033] [055] [159] [381] [391] [447] [501] _see_ <span class="see-also">also</span> <span class="see-also">consumerism</span>
+**capitalism** [033] [055] [159] [381] [391] [447] [501] _see also_ <span class="see-also">consumerism</span> 
 
 **Caribbean** [187] [587]
 
@@ -157,21 +141,21 @@ toc: 2019 Terms
 
 **China** [029] [165]
 
-**Chopin, Frédéric** <span class="see-also">Frédéric</span> [091]
+**Chopin, Frédéric** [091]
 
 **Christo** [121]
 
-**class** [073] [135] [219] [415] [583] [615] _see_ <span class="see-also">also</span> <span class="see-also">labor</span>
+**class** [073] [135] [219] [415] [583] [615] _see also_  <span class="see-also">labor</span>
 
-**climate change** <span class="see-also">change</span> [033] [141] [157] [257] [385] [409] [447] [517] [587] [603] [605] [607]
+**climate change** [033] [141] [157] [257] [385] [409] [447] [517] [587] [603] [605] [607]
 
-**clothing** [083] [177] [199] [215] [247] [271] [341] [361] [393] [449] [467] [485], [517] _see_ <span class="see-also">also</span> <span class="see-also">costume</span>
+**clothing** [083] [177] [199] [215] [247] [271] [341] [361] [393] [449] [467] [485], [517] _see also_  <span class="see-also">costume</span>
 
-**Cohen, Leonard** <span class="see-also">Leonard</span> [329] [457]
+**Cohen, Leonard** [329] [457]
 
 **collaboration** [003] [015] [025] [069] [083] [177] [263] [305] [351] [367] [497] [523] [567]
 
-**Colon, Sunny** <span class="see-also">Sunny</span> [313]
+**Colon, Sunny** [313]
 
 **colonialism** [017] [031] [129] [141] [273] [581] [615]
 
@@ -187,7 +171,7 @@ toc: 2019 Terms
 
 **community** [089] [177] [263] [359] [399] [441] [489] [541] [575] [579] [599]
 
-**conscious** [115] [533] [151] [321] [417] [451] [607] _see_ <span class="see-also">also</span> <span class="see-also">subconscious</span>
+**conscious** [115] [533] [151] [321] [417] [451] [607] _see also_  <span class="see-also">subconscious</span>
 
 **unconscious** [151] [321] [417] [451] [607]
 
@@ -199,35 +183,30 @@ toc: 2019 Terms
 
 **contraception** _see_ <span class="see-also">reproductive</span> <span class="see-also">health</span>
 
-**Cortés, Hernán** <span class="see-also">Hernán</span> [417]
+**Cortés, Hernán** [417]
 
 **costume** [035] [083] [177] [187] [455] [485] [517]
 
-**Cronin, Patricia** <span class="see-also">Patricia</span> [053]
-
-{: # .index .sticky-nav }
-
-##
+**Cronin, Patricia** [053]
 
 {: #D .index .sticky-nav }
-
 ## D
 
 **dance** [025] [033] [045] [069] [075] [079] [093] [095] [117] [125] [141] [145] [153] [163] [171] [175] [223] [227] [249] [245] [321] [325] [353] [353] [375] [393] [433] [449] [469] [485] [493] [501] [523] [541] [551] [581] [611] [109] [513] [567]
 
 **Butoh** [109] [513] [567]
 
-**Danius, Sara** <span class="see-also">Sara</span> [247]
+**Danius, Sara** [247]
 
 **data** [201] [245] [289] [615]
 
-**De Carvalho, Apolo** <span class="see-also">Carvalho</span> <span class="see-also">Apolo</span> [313]
+**De Carvalho, Apolo** [313]
 
 **death** [015] [017] [041] [049] [055] [073] [093] [121] [129] [139] [263] [271] [293] [321] [321] [349] [375] [403] [409] [419] [435] [451] [463] [501] [535] [531] [549] [517] [597] [607]
 
-**Debussy, Claude** <span class="see-also">Claude</span> [517]
+**Debussy, Claude** [517]
 
-**Deleuze, Gilles** <span class="see-also">Gilles</span> [317]
+**Deleuze, Gilles** [317]
 
 **desire** [083] [109] [139] [151] [287] [289] [293] [309] [317] [399] [433] [459] [485] [549] [563] [591] [589]
 
@@ -237,17 +216,17 @@ toc: 2019 Terms
 
 **displacement** [065] [377] [409] [505] [517] [533] [583]
 
-**Dixie Chicks** <span class="see-also">Chicks</span> [305]
+**Dixie Chicks** [305]
 
 **documentary** [009] [477]
 
 **documentation** [035] [049] [055] [181] [441] [497]
 
-**domestic violence** <span class="see-also">violence</span> [047] [000], [167] [567]
+**domestic violence** [047] [000], [167] [567]
 
 **domesticity** [043] [083] [147] [165] [177] [219] [361] [433] [467] [599] [615]
 
-**Douglas, Mary** <span class="see-also">Mary</span> [309]
+**Douglas, Mary** [309]
 
 **drag** [091] [109] [109] [177] [245] [441] [459] [571]
 
@@ -257,12 +236,7 @@ toc: 2019 Terms
 
 **durational** [005] [025] [041] [057] [097] [113] [115] [147] [147] [165] [207] [225] [231] [235] [249] [247] [257] [269] [273] [277] [281] [319] [357] [377] [399] [435] [455] [477] [501] [507] [513] [525] [579] [595] [599]
 
-{: # .index .sticky-nav }
-
-##
-
 {: #E .index .sticky-nav }
-
 ## E
 
 **earth** [007] [159] [203] [279] [361] [419] [499] [575] [603] [607] [615]
@@ -291,29 +265,24 @@ toc: 2019 Terms
 
 **emotions** [003] [089] [125] [163] [277] [289] [335] [365] [443] [485]
 
-**endurance** [211] [227] [263] [297] [525] [547] [575] [611] _see_ <span class="see-also">also</span> <span class="see-also">duration</span>
+**endurance** [211] [227] [263] [297] [525] [547] [575] [611] _see also_  <span class="see-also">duration</span>
 
 **energy** [055] [061] [069] [093] [135] [199] [281] [357] [485] [499] [509] [599] [603]
 
 **ephemerality** [015] [029] [105] [183] [325] [427] [455] [473] [509] [557] [583] [605]
 
-**European Union (EU)** <span class="see-also">Union</span> <span class="see-also">(EU)</span> [183] [203]
+**European Union (EU)** [183] [203]
 
 **exploration** [017] [033] [101] [153] [165] [181] [289] [293] [301] [309] [325] [369] [403] [435] [547] [575] [599]
 
-{: # .index .sticky-nav }
-
-##
-
 {: #F .index .sticky-nav }
-
 ## F
 
 **failure** [067] [139] [201] [293] [313] [455]
 
-**fairy tale** <span class="see-also">tale</span> [549]
+**fairy tale** [549]
 
-**family** [019] [045] [073] [135] [151] [219] [241] [249] [271] [321] [361] [393] [403] [417] [435] [451] [457] [475] [535] [543] [567] _see_ <span class="see-also">also</span> <span class="see-also">father</span> <span class="see-also">mother</span> <span class="see-also">grandfather</span> <span class="see-also">grandmother</span>
+**family** [019] [045] [073] [135] [151] [219] [241] [249] [271] [321] [361] [393] [403] [417] [435] [451] [457] [475] [535] [543] [567] _see also_  <span class="see-also">father</span> <span class="see-also">mother</span> <span class="see-also">grandfather</span> <span class="see-also">grandmother</span>
 
 **fantasy** [003] [091] [441] [559] [589]
 
@@ -323,11 +292,11 @@ toc: 2019 Terms
 
 **father** [045] [135] [151] [249] [435] [475] [535]
 
-**femicide** [129] _see_ <span class="see-also">also</span> <span class="see-also">women</span>
+**femicide** [129] _see also_  <span class="see-also">women</span>
 
-**femininity** [037] [049] [053] [091] [093] [169] [309] [389] [449] [513] _see_ <span class="see-also">also</span> <span class="see-also">women</span> <span class="see-also">gender</span>
+**femininity** [037] [049] [053] [091] [093] [169] [309] [389] [449] [513] _see also_  <span class="see-also">women</span> <span class="see-also">gender</span>
 
-**feminism** [037] [061] [079] [133] [247] [313] [321] [367] [443] [513] _see_ <span class="see-also">also</span> <span class="see-also">women</span>
+**feminism** [037] [061] [079] [133] [247] [313] [321] [367] [443] [513] _see also_  <span class="see-also">women</span>
 
 **fertility** [141] [357] [477]
 
@@ -339,13 +308,13 @@ toc: 2019 Terms
 
 **Fluxus** [101]
 
-**Folbre, Nancy** <span class="see-also">Nancy</span> [169]
+**Folbre, Nancy** [169]
 
 **food** [073] [083] [153] [165] [211] [249] [269] [271] [293] [305] [367] [425] [451] [481] [505] [525] [559] [019] [047] [321] [481] [539] [063] [073] [393] [337] [483] [607]
 
 **fruit** [019] [047] [321] [481] [539]
 
-**Forti, Simone** <span class="see-also">Simone</span> [263]
+**Forti, Simone** [263]
 
 **fragmentation** [129] [435] [557]
 
@@ -353,15 +322,12 @@ toc: 2019 Terms
 
 **freedom** [187] [293] [319] [327]
 
-**Fuller, Buckminster** <span class="see-also">Buckminster</span> [009] [153]
+**Fuller, Buckminster** [009] [153]
 
 **future** [061] [079] [147] [159] [187] [199] [247] [249] [273] [269] [407] [523] [587]
 
-{: # .index .sticky-nav }
-
-##
-
-**G**
+{: #G .index .sticky-nav }
+## G
 
 **gallery** [063] [065] [097] [101] [105] [109] [119] [129] [135] [147] [151] [181] [209] [211] [215] [227] [265] [271] [281] [309] [329] [361] [359] [377] [401] [501] [505] [533] [571] [607]
 
@@ -369,7 +335,7 @@ toc: 2019 Terms
 
 **garbage** _see_ <span class="see-also">trash</span>
 
-**gay** [079] [177] [177] [227] [305] [571] _see_ <span class="see-also">also</span> <span class="see-also">queer</span> <span class="see-also">lesbian</span>
+**gay** [079] [177] [177] [227] [305] [571] _see also_  <span class="see-also">queer</span> <span class="see-also">lesbian</span>
 
 **gaze** [045] [053] [147] [211] [303] [517] [573]
 
@@ -383,9 +349,9 @@ toc: 2019 Terms
 
 **ghost** [129] [263] [289] [353] [451] [457] [469] [485]
 
-**Giorno, John** <span class="see-also">John</span> [151]
+**Giorno, John** [151]
 
-**global warming** <span class="see-also">warming</span> _see_ <span class="see-also">climate</span> <span class="see-also">change</span>
+**global warming**
 
 **god** [055] [063] [079] [117] [189] [219] [485] [499]
 
@@ -395,31 +361,28 @@ toc: 2019 Terms
 
 **grandmother** [031] [253] [451] [449] [505] [543] [539] [547]
 
-**Graudin, Ryan** <span class="see-also">Ryan</span> [247]
+**Graudin, Ryan** [247]
 
 **Greece** [023] [181] [325] [367] [547] [607]
 
 **grief** [273] [353] [357] [417] [419] [463] [501] [603]
 
-**Griner, Brittany** <span class="see-also">Brittany</span> [265]
+**Griner, Brittany** [265]
 
-**Grosz, Elizabeth** <span class="see-also">Elizabeth</span> [309]
+**Grosz, Elizabeth** [309]
 
-**Guattari, Félix** <span class="see-also">Félix</span> [317]
+**Guattari, Félix** [317]
 
-{: # .index .sticky-nav }
-
-##
-
-**H**
+{: #H .index .sticky-nav }
+## H
 
 **hair** [045] [083] [113] [125] [201] [231] [305] [393] [531] [549] [575]
 
-**Halberstam, Jack** <span class="see-also">Jack</span> [206]
+**Halberstam, Jack** [206]
 
-**Hammons, David** <span class="see-also">David</span> [005]
+**Hammons, David** [005]
 
-**Hawking, Stephen** <span class="see-also">Stephen</span> [141] [183]
+**Hawking, Stephen** [141] [183]
 
 **healing** [017] [083] [141] [239] [281] [295] [319] [353] [353] [359] [403] [423] [481] [509] [513] [575]
 
@@ -435,15 +398,12 @@ toc: 2019 Terms
 
 **Hungary** [287]
 
-**Hurricane Maria** <span class="see-also">Maria</span> [343]
+**Hurricane Maria** [343]
 
-{: # .index .sticky-nav }
+{: #I .index .sticky-nav }
+## I
 
-##
-
-**I**
-
-**ice cream** <span class="see-also">cream</span> _see_ <span class="see-also">food</span>
+**ice cream**
 
 **illness** [343] [509]
 
@@ -477,45 +437,34 @@ toc: 2019 Terms
 
 **Italy** [093] [095] [271] [287]
 
-{: # .index .sticky-nav }
+{: #J .index .sticky-nav }
+## J
 
-##
-
-**J**
-
-**Jafa, Arthur** <span class="see-also">Arthur</span> [313]
+**Jafa, Arthur** [313]
 
 **Japan** [193] [249] [441] [485] [583]
 
-**Jiménez, Luis** <span class="see-also">Luis</span> [121]
+**Jiménez, Luis** [121]
 
-**Jordan, June** <span class="see-also">June</span> [153]
+**Jordan, June** [153]
 
 **justice** [353] [373] [501] [615]
 
-{: # .index .sticky-nav }
-
-##
-
 {: #K .index .sticky-nav }
-
 ## K
 
-**Kagel, Mauricio** <span class="see-also">Mauricio</span> [233]
+**Kagel, Mauricio** [233]
 
-**Kavanaugh, Brett** <span class="see-also">Brett</span> [133] [365]
+**Kavanaugh, Brett** [133] [365]
 
-**Klein, Franz** <span class="see-also">Franz</span> [023]
+**Klein, Franz** [023]
 
-**Koons, Jeff** <span class="see-also">Jeff</span> [443]
+**Koons, Jeff** [443]
 
 **Korea** [375] [403] [449] [583]
 
-{: # .index .sticky-nav }
-
-##
-
-**L**
+{: #L .index .sticky-nav }
+## L
 
 **labor** [005] [037] [045] [087] [129] [147] [169] [177] [183] [187] [219] [337] [353] [361] [393] [417] [433] [525] [615]
 
@@ -523,15 +472,15 @@ toc: 2019 Terms
 
 **latinx** [399] [459]
 
-**Le Corbusier** <span class="see-also">Corbusier</span> [317]
+**Le Corbusier** [317]
 
 **lecture** [121] [273] [313] [417] [465] [581] [589] [615]
 
-**Lefebvre, Henri** <span class="see-also">Henri</span> [043]
+**Lefebvre, Henri** [043]
 
-**Leiris, Michel** <span class="see-also">Michel</span> [367]
+**Leiris, Michel** [367]
 
-**Lennon, John** <span class="see-also">John</span> [465]
+**Lennon, John** [465]
 
 **lesbian** [053]
 
@@ -539,43 +488,40 @@ toc: 2019 Terms
 
 **light** [005] [017] [023] [035] [041] [141] [153] [171] [177] [203] [227] [261] [265] [289] [319] [327] [329] [369] [385] [403] [399] [425] [435] [441] [439] [451] [459] [475] [501] [499] [513] [527] [591]
 
-**Lorde, Audre** <span class="see-also">Audre</span> [313]
+**Lorde, Audre** [313]
 
-**loss** [003] [011] [017] [041] [051] [065] [235] [255] [325] [353] [351] [361] [417] [427] [423] [589] [607] _see_ <span class="see-also">also</span> <span class="see-also">grief</span>
+**loss** [003] [011] [017] [041] [051] [065] [235] [255] [325] [353] [351] [361] [417] [427] [423] [589] [607] _see also_  <span class="see-also">grief</span>
 
 **love** [011] [019] [037] [043] [079] [105] [135] [141] [153] [171] [169] [219] [235] [249] [239] [245] [265] [289] [293] [305] [305] [417] [419] [423] [455] [469] [475] [517] [539] [583]
 
 **lover** [003] [051] [053] [095] [125] [129] [151] [211] [227]
 
-{: # .index .sticky-nav }
-
-##
-
-**M**
+{: #M .index .sticky-nav }
+## M
 
 **makeup** [083] [109] [129]
 
-**Mahadevi, Akka** <span class="see-also">Akka</span> [037]
+**Mahadevi, Akka** [037]
 
 **map** [079] [257] [273] [349] [417] [425]
 
-**Marin, Louis** <span class="see-also">Louis</span> [231]
+**Marin, Louis** [231]
 
 **marriage** [253] [451]
 
-**Mary Magdalene** <span class="see-also">Magdalene</span> [389]
+**Mary Magdalene** [389]
 
-**masculinity** [054] [109] [147] [151] [169] [203] [206] [231] [265] _see_ <span class="see-also">also</span> <span class="see-also">gender</span>
+**masculinity** [054] [109] [147] [151] [169] [203] [206] [231] [265] _see also_  <span class="see-also">gender</span>
 
 **mask** [027] [051] [109] [153] [313] [373] [401] [455] [465] [549]
 
-**Mauricio Rocha Iturbide** <span class="see-also">Rocha</span> <span class="see-also">Iturbide</span> [119]
+**Mauricio Rocha Iturbide** [119]
 
-**McMillan, Andrew** <span class="see-also">Andrew</span> [599]
+**McMillan, Andrew** [599]
 
 **media** [011] [017] [035] [129] [135] [135] [141] [165] [209] [211] [217] [235] [255] [273] [297] [313] [311] [351] [373] [431] [441] [485]
 
-**medicine** [211] [345] [535] _see_ <span class="see-also">also</span> <span class="see-also">healing</span>
+**medicine** [211] [345] [535] _see also_  <span class="see-also">healing</span>
 
 **meditation** [033] [345] [377] [401] [481]
 
@@ -589,31 +535,28 @@ toc: 2019 Terms
 
 **mirror** [147] [171] [269] [289] [309] [321] [345] [369] [417]
 
-**Mondersohn-Baker, Paula** <span class="see-also">Paula</span> [321]
+**Mondersohn-Baker, Paula** [321]
 
 **money** [159] [245] [615]
 
-**mother** [013] [019] [031] [045] [049] [147] [211] [219] [241] [271] [321] [361] [393] [451] [449] [457] [475] [505] [535] [543] [539] [547] [567] [597] _see_ <span class="see-also">also</span> <span class="see-also">grandmother</span> <span class="see-also">family</span>
+**mother** [013] [019] [031] [045] [049] [147] [211] [219] [241] [271] [321] [361] [393] [451] [449] [457] [475] [505] [535] [543] [539] [547] [567] [597] _see also_  <span class="see-also">grandmother</span> <span class="see-also">family</span>
 
-**Mottel, Syeus** <span class="see-also">Syeus</span> [009]
+**Mottel, Syeus** [009]
 
 **movement** [023] [033] [043] [053] [069] [075] [083] [095] [101] [117] [119] [153] [157] [163] [171] [175] [183] [203] [223] [227] [231] [249] [247] [265] [289] [303] [305] [317] [319] [321] [333] [353] [353] [377] [401] [417] [433] [449] [469] [485] [485] [513] [527] [523] [539] [549] [559] [557] [567] [575] [589] [607]
 
 **murder** [019] [063] [121] [129] [305]
 
-**Murrow, Ethan** <span class="see-also">Ethan</span> [087]
+**Murrow, Ethan** [087]
 
 **music** [009] [015] [043] [079] [089] [091] [093] [095] [117] [119] [141] [225] [233] [265] [289] [313] [329] [343] [353] [417] [427] [441] [459] [473] [477] [489] [501] [513] [527] [525] [541] [541] [517] [587] [611]
 
-**Musk, Elon** <span class="see-also">Elon</span> [141]
+**Musk, Elon** [141]
 
 **myth** [039] [055] [091] [093] [181] [279] [325] [451] [589]
 
-{: # .index .sticky-nav }
-
-##
-
-**N**
+{: #N .index .sticky-nav }
+## N
 
 **names** [029] [353] [417] [489] [499] [515] [607]
 
@@ -621,11 +564,11 @@ toc: 2019 Terms
 
 **nationalism** [165] [255] [477]
 
-**Native American** <span class="see-also">American</span> _see_ <span class="see-also">indigeneity</span>
+**Native American**
 
 **nature** [033] [041] [109] [117] [141] [301] [353] [385] [409] [435] [441] [493] [567] [575]
 
-**Nauman, Bruce** <span class="see-also">Bruce</span> [263]
+**Nauman, Bruce** [263]
 
 **noise** [023] [079] [089] [095] [109] [119] [249] [311] [485] [499] [583]
 
@@ -633,29 +576,23 @@ toc: 2019 Terms
 
 **nudity** [109] [139] [147] [203] [211] [211] [319] [337] [417] [431] [531]
 
-{: # .index .sticky-nav }
+{: #O .index .sticky-nav }
+## O
 
-##
+**O’Reilly, Kira** [231]
 
-**O**
+**Obama, Barack** [343]
 
-**O’Reilly, Kira** <span class="see-also">Kira</span> [231]
-
-**Obama, Barack** <span class="see-also">Barack</span> [343]
-
-**Ono, Yoko** <span class="see-also">Yoko</span> [465]
+**Ono, Yoko** [465]
 
 **opera** [023] [121] [245] [305]
 
 **oppression** [033] [203] [269] [353] [375] [447] [581]
 
-**Orbison, Roy** <span class="see-also">Roy</span> [147]
+**Orbison, Roy** [147]
 
-{: # .index .sticky-nav }
-
-##
-
-**P**
+{: #P .index .sticky-nav }
+## P
 
 **pain** [089] [125] [157] [319] [375] [425] [427] [477] [543]
 
@@ -663,25 +600,25 @@ toc: 2019 Terms
 
 **Palestine** [539]
 
-**participation** [051] [069] [079] [089] [105] [125] [133] [165] [177] [187] [193] [201] [207] [257] [287] [293] [305] [345] [341] [351] [369] [441] [459] [497] [505] [507] [509] [541] [559] [565] [597] [605] _see_ <span class="see-also">also</span> <span class="see-also">audience</span>
+**participation** [051] [069] [079] [089] [105] [125] [133] [165] [177] [187] [193] [201] [207] [257] [287] [293] [305] [345] [341] [351] [369] [441] [459] [497] [505] [507] [509] [541] [559] [565] [597] [605] _see also_  <span class="see-also">audience</span>
 
-**Pastrana, Julia** <span class="see-also">Julia</span> [581]
+**Pastrana, Julia** [581]
 
 **patriarchy** [091] [093] [477]
 
-**performance art** <span class="see-also">art</span> [193] [253] [431] [483] [493] [541] [575]
+**performance art** [193] [253] [431] [483] [493] [541] [575]
 
-**Perrot, Michelle** <span class="see-also">Michelle</span> [477]
+**Perrot, Michelle** [477]
 
-**persona** [039] [177] [177] [407] _see_ <span class="see-also">also</span> <span class="see-also">alter</span> <span class="see-also">ego</span>
+**persona** [039] [177] [177] [407] _see also_  <span class="see-also">alter</span> <span class="see-also">ego</span>
 
 **photography** [035] [159] [181], [517] [555] [573]
 
-**Picasso, Pablo** <span class="see-also">Pablo</span> [105] [227]
+**Picasso, Pablo** [105] [227]
 
 **pilgrimage** [049] [281] [399]
 
-**Pio, Giusto** <span class="see-also">Giusto</span> [053]
+**Pio, Giusto** [053]
 
 **plant** [125] [211] [301]
 
@@ -693,7 +630,7 @@ toc: 2019 Terms
 
 **politics** [007] [019] [053] [113] [129] [133] [135] [183] [203] [199] [219] [247] [313] [351] [369] [367] [373] [375] [381] [399] [449] [459]
 
-**Pollock, Jackson** <span class="see-also">Jackson</span> [239]
+**Pollock, Jackson** [239]
 
 **Portugal** [385]
 
@@ -701,7 +638,7 @@ toc: 2019 Terms
 
 **power** [003] [013] [019] [061] [121] [157] [177] [223] [273] [313] [341] [367] [381] [447] [455] [515] [533] [539] [541] [563]
 
-**Preciado, Paul** <span class="see-also">Paul</span> [485]
+**Preciado, Paul** [485]
 
 **prison** [079] [373] [491]
 
@@ -717,21 +654,15 @@ toc: 2019 Terms
 
 **psychology** [183]
 
-**Puerto Rico** <span class="see-also">Rico</span> [017] [401]
+**Puerto Rico** [017] [401]
 
-{: # .index .sticky-nav }
-
-##
-
-**Q**
+{: #Q .index .sticky-nav }
+## Q
 
 **queer** [045], [081] [129], [133], [165] [177] [189] [206] [231] [265] [261] [263] [273] [289] [313] [335] [345] [353] [369] [389] [401] [427] [441] [451] [449] [485] [571] [573] [579] [591] [611] [045], [081] [129], [133], [165] [177] [189] [201] [231] [265] [261] [263] [273] [289] [313] [335] [345] [353] [369] [389] [401] [427] [441] [451] [449] [485] [571] [573] [579] [591] [612]
 
-{: # .index .sticky-nav }
-
-##
-
-**R**
+{: #R .index .sticky-nav }
+## R
 
 **race** [455] [541] [573]
 
@@ -761,11 +692,11 @@ toc: 2019 Terms
 
 **Christianity** [055] [129] [613]
 
-**Jehovah’s Witness** <span class="see-also">Witness</span> [345]
+**Jehovah’s Witness** [345]
 
 **repetition** [079] [105] [171] [301] [455] [469] [489] [513] [525] [599]
 
-**reproductive health** <span class="see-also">health</span> [047] [477]
+**reproductive health** [047] [477]
 
 **research** [025] [125] [165] [163] [171] [187] [193] [211] [247] [261] [279] [301] [309] [317] [385] [417] [451] [459] [485] [513] [527] [523] [517] [567] [579] [607] [615]
 
@@ -775,7 +706,7 @@ toc: 2019 Terms
 
 **rights** [037] [047] [053] [113] [203] [207] [301] [501], [517] [539]
 
-**Rilke, Rainer Maria** <span class="see-also">Rainer</span> <span class="see-also">Maria</span> [321]
+**Rilke, Rainer Maria** [321]
 
 **risk** [113] [129] [139] [277] [361] [425] [489] [586]
 
@@ -787,11 +718,8 @@ toc: 2019 Terms
 
 **Russia** [121] [135] [165] [249] [367] [567]
 
-{: # .index .sticky-nav }
-
-##
-
-**S**
+{: #S .index .sticky-nav }
+## S
 
 **sacrifice** [279] [499]
 
@@ -801,7 +729,7 @@ toc: 2019 Terms
 
 **Sappho** [367]
 
-**Satie, Erik** <span class="see-also">Erik</span> [465] [525]
+**Satie, Erik** [465] [525]
 
 **satire** [135], [205]
 
@@ -811,25 +739,25 @@ toc: 2019 Terms
 
 **sculpture** [011], [015] [041] [053] [061] [105] [109] [121] [193] [211] [209] [273] [281] [287] [353] [369] [373] [449] [477] [473] [475] [483] [493] [513] [547]
 
-**sea** [007], [017] _see_ <span class="see-also">also</span> <span class="see-also">water</span>
+**sea** [007], [017] _see also_  <span class="see-also">water</span>
 
 **seasons** [007] [165] [455]
 
 **self** [003] [005], [013] [015] [037] [039] [045] [047] [053] [055] [057] [061] [069] [083] [095] [097] [129] [135] [139] [147] [157] [169] [171] [175] [177] [189], [213] [227] [235] [239] [241] [255] [273] [273] [281] [293] [303] [309] [313] [319] [321] [337] [365] [377] [385] [399] [441] [441] [443] [449] [485] [527] [533] [539] [557] [575] [589] [599] [597] [615]
 
-**self love** <span class="see-also">love</span> [015]
+**self love** [015]
 
 **seperation** [003] [079] [129] [171] [199] [377] [615]
 
-**Serra, Richard** <span class="see-also">Richard</span> [121]
+**Serra, Richard** [121]
 
 **sex** [053] [105] [151] [181] [211] [223] [263] [441] [477]
 
-**sexuality** [053] [353] [441] _see_ <span class="see-also">also</span> <span class="see-also">queer</span>
+**sexuality** [053] [353] [441] _see also_  <span class="see-also">queer</span>
 
-**sexual abuse** <span class="see-also">abuse</span> _see_ <span class="see-also">rape</span>
+**sexual abuse**
 
-**Silverstein, Shel** <span class="see-also">Shel</span> [151]
+**Silverstein, Shel** [151]
 
 **site-specific** [113] [177] [187] [211] [507] [513] [583] [607] [615]
 
@@ -839,7 +767,7 @@ toc: 2019 Terms
 
 **sleep** [151] [165] [271] [319] [423] [439] [457] [475] [599] [607]
 
-**social media** <span class="see-also">media</span> [039] [067] [135] [141] [209] [235] [245] [255] [391] [403] [431] [441] [597]
+**social media** [039] [067] [135] [141] [209] [235] [245] [255] [391] [403] [431] [441] [597]
 
 **song** [007] [015] [031] [043] [079] [083] [089] [093] [095] [109] [131] [125] [153] [219] [223] [245] [253] [265] [273] [289] [305] [305] [313] [325] [329] [343] [351] [353] [361] [403] [417] [419] [457] [459] [465] [469] [475] [477] [485] [513] [515] [541] [539] [571] [575] [587]
 
@@ -847,9 +775,9 @@ toc: 2019 Terms
 
 **space** [009] [013] [017] [041] [071] [073] [087] [147] [153] [171] [193] [227] [235] [247] [265] [289] [285] [287] [303] [345] [369] [377] [381] [443] [451] [459] [477] [507] [559] [565] [571] [583]
 
-**outer space** <span class="see-also">space</span> [129] [279] [589]
+**outer space** [129] [279] [589]
 
-**safe space** <span class="see-also">space</span> [289]
+**safe space** [289]
 
 **Spain** [287] [541] [605]
 
@@ -859,7 +787,7 @@ toc: 2019 Terms
 
 **sport** [135] [265] [591]
 
-**Stein, Gertrude** <span class="see-also">Gertrude</span> [043]
+**Stein, Gertrude** [043]
 
 **stolen** [013]
 
@@ -873,17 +801,14 @@ toc: 2019 Terms
 
 **surveillance** [235] [431] [439]
 
-{: # .index .sticky-nav }
-
-##
-
-**T**
+{: #T .index .sticky-nav }
+## T
 
 **Tanzania** [049]
 
 **tattoo** [067] [125] [611]
 
-**Tchaikovsky, Pyotr Ilyich** <span class="see-also">Pyotr</span> <span class="see-also">Ilyich</span> [147]
+**Tchaikovsky, Pyotr Ilyich** [147]
 
 **technology** [141] [235] [329] [407] [451] [079] [165] [183] [245] [311] [417] [441] [441] [497] [501] [575]
 
@@ -901,7 +826,7 @@ toc: 2019 Terms
 
 **therapy** [069] [129] [319] [447]
 
-**Thunberg, Greta** <span class="see-also">Greta</span> [209]
+**Thunberg, Greta** [209]
 
 **real-time** [019] [025] [065] [071] [163] [311] [351] [435] [431]
 
@@ -927,29 +852,23 @@ toc: 2019 Terms
 
 **travel** [065] [203] [301] [325] [327] [333] [353] [361] [393] [399] [425]
 
-**tree** [007] [195] [203] [233] [249] [353] [435] [613] _see_ <span class="see-also">also</span> <span class="see-also">plant</span>
+**tree** [007] [195] [203] [233] [249] [353] [435] [613] _see also_  <span class="see-also">plant</span>
 
-**Trump, Donald** <span class="see-also">Donald</span> [017] [019] [133] [273] [297] [501]
+**Trump, Donald** [017] [019] [133] [273] [297] [501]
 
-{: # .index .sticky-nav }
-
-##
-
-**U**
+{: #U .index .sticky-nav }
+## U
 
 **Uruguay** [476] [477]
 
-{: # .index .sticky-nav }
+{: #V .index .sticky-nav }
+## V
 
-##
-
-**V**
-
-**Valencia, Sayak** <span class="see-also">Sayak</span> [129]
+**Valencia, Sayak** [129]
 
 **video** [035] [053] [181] [195] [297] [313] [475] [525]
 
-**violence** [013] [019] [121] [129] [135] [171] [175] [181] [305] [321] [381] [477] [567] _see_ <span class="see-also">also</span> <span class="see-also">rape</span>
+**violence** [013] [019] [121] [129] [135] [171] [175] [181] [305] [321] [381] [477] [567] _see also_  <span class="see-also">rape</span>
 
 **visibility** [313] [517]
 
@@ -957,19 +876,16 @@ toc: 2019 Terms
 
 **vulnerability** [129] [147] [165]
 
-{: # .index .sticky-nav }
-
-##
-
-**W**
+{: #W .index .sticky-nav }
+## W
 
 **walk** [193] [209] [247] [265] [269] [281] [301] [303] [341] [361] [399] [401] [427] [467] [507]
 
-**wall** [009] [023] [063] [089] [101] [177] [189] [203] [247] [337] [359] [377] [417] [417] [499] [509] [539] [557] [559] [589] [605] _see_ <span class="see-also">also</span> <span class="see-also">barrier</span>
+**wall** [009] [023] [063] [089] [101] [177] [189] [203] [247] [337] [359] [377] [417] [417] [499] [509] [539] [557] [559] [589] [605] _see also_  <span class="see-also">barrier</span>
 
 **war** _see_ <span class="see-also">military</span>
 
-**Warhol, Andy** <span class="see-also">Andy</span> [151]
+**Warhol, Andy** [151]
 
 **water** [011] [029] [195] [257] [273] [285] [295] [335] [345] [349] [383] [459] [499] [517] [587] [607]
 
@@ -977,33 +893,30 @@ toc: 2019 Terms
 
 **weight** [013] [027] [031] [049] [073] [113] [203] [215] [271] [337] [345] [417] [477] [483] [543] [567] [595]
 
-**Wilson, Folayemi** <span class="see-also">Folayemi</span> [353]
+**Wilson, Folayemi** [353]
 
 **witness** [015] [033] [065] [071] [105] [113] [147] [151] [159] [189] [199] [215] [239] [271] [289] [297] [295] [353] [357] [365] [393] [409] [439] [493] [501] [583]
 
-**Wittgenstein, Ludwig** <span class="see-also">Ludwig</span> [005]
+**Wittgenstein, Ludwig** [005]
 
-**Wojnarowicz, David** <span class="see-also">David</span> [591]
+**Wojnarowicz, David** [591]
 
-**women** [017] [031] [037] [053] [061] [087] [101] [129] [133] [135] [169] [189] [211] [219] [223] [249] [293] [305] [337] [353] [361] [417] [443] [477] [493] [515] [597] _see_ <span class="see-also">also</span> <span class="see-also">gender</span>
+**women** [017] [031] [037] [053] [061] [087] [101] [129] [133] [135] [169] [189] [211] [219] [223] [249] [293] [305] [337] [353] [361] [417] [443] [477] [493] [515] [597] _see also_  <span class="see-also">gender</span>
 
 **work** _see_ <span class="see-also">labor</span>
 
-**World War II** <span class="see-also">War</span> <span class="see-also">II</span> [219] [451]
+**World War II** [219] [451]
 
-**Wright, Frank Lloyd** <span class="see-also">Frank</span> <span class="see-also">Lloyd</span> [043]
+**Wright, Frank Lloyd** [043]
 
 **writing** [003] [009] [023] [071] [115] [183] [313] [351] [375] [403] [401] [457] [485] [509] [551] [615]
 
-{: # .index .sticky-nav }
+{: #Z .index .sticky-nav }
+## Z
 
-##
+**Zenun, Maria** [313]
 
-**Z**
-
-**Zenun, Maria** <span class="see-also">Maria</span> [313]
-
-**Zuckerberg, Mark** <span class="see-also">Mark</span> [135]
+**Zuckerberg, Mark** [135]
 
 {%- assign projects = site.projects | where: "volume", "2019" -%}
 {% include project_links.md projects=projects %}
