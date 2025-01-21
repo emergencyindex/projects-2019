@@ -655,8 +655,6 @@ Guyot, Camille [490-491]
 {: #H .index .sticky-nav }
 ## H
 
-H M, Rick [454-455]
-
 Hair, Julie [366-367]
 
 Hall, Carolyn [498-499]
@@ -720,6 +718,8 @@ Homler, Anna [486-487]
 Hon, Nick [238-239]
 
 Hong, Della Yi [164-165]
+
+Hong, Elle [454-455]
 
 Horejs, Vit [522-523]
 
